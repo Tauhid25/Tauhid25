@@ -5,11 +5,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm a **Full Stack JavaScript Developer** specializing in the **MERN stack**  
-- 🌱 Currently enhancing skills in **Next.js**, **TypeScript**, and **DevOps**  
-- 💡 I love building dynamic, scalable web apps and solving real-world problems  
-- 📫 Reach me at: **your.email@example.com**  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+`I’m Tauhidur Rahman, a passionate MERN Stack Developer from Bangladesh. I love building full-stack web applications that solve real-world problems. I enjoy learning new technologies, collaborating on open-source projects, and continuously improving my skills to create clean, scalable, and efficient code that makes a meaningful impact.`
 
 ---
 
