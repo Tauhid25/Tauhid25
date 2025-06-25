@@ -25,21 +25,21 @@
 <div align="center">
 
 ### 🔤 Top Languages
-<a href="https://github.com/your-username">
+<a href="https://github.com/Tauhid25">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&langs_count=6" />
 </a>
 
 ---
 
 ### 📈 GitHub Stats
-<a href="https://github.com/your-username">
+<a href="https://github.com/Tauhid25">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
 </a>
 
 ---
 
 ### 🔥 GitHub Streak
-<a href="https://github.com/your-username">
+<a href="https://github.com/Tauhid25">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </a>
 
