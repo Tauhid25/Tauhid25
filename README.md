@@ -9,6 +9,10 @@
 
 ---
 
+## 🚀 Currently, 
+- I am exploring Next.js to enhance my full-stack development skills.
+- I'm working on a Courier Service website that focuses on fast delivery, real-time tracking, and a smooth user experience with modern web technologies.
+
 ## 🛠️ Tech Stack
 
 | Category   | Technologies |
