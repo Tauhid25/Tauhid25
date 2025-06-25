@@ -1,9 +1,6 @@
 <!-- Cover Photo -->
 <img src="https://i.ibb.co/xqWHkP1n/github-bannar.png" alt="Cover" width="100%" />
 
-<h1 align="center">Hi, I'm Tauhidur Rahman 👋</h1>
-<h3 align="center">A Passionate MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
-
 ---
 
 ## 🚀 About Me
