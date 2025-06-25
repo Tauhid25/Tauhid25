@@ -24,26 +24,22 @@
 
 <div align="center">
 
-### 🔤 Top Languages
-<a href="https://github.com/Tauhid25">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&langs_count=6" />
-</a>
-
----
-
-### 📈 GitHub Stats
-<a href="https://github.com/Tauhid25">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</a>
-
----
-
-### 🔥 GitHub Streak
-<a href="https://github.com/Tauhid25">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid25&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tauhid25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tauhid25&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
