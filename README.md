@@ -31,7 +31,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Tauhid25&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" height="200"/>
       </td>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?userna
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tauhid25&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="300" height="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
