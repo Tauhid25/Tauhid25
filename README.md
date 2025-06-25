@@ -19,11 +19,9 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <table>
   <tr>
     <td>
@@ -33,12 +31,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Tauhid25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tauhid25&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tauhid25&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
     </td>
   </tr>
 </table>
-
 </div>
+
 
 
 ---
