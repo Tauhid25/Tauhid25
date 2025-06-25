@@ -22,20 +22,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid25&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tauhid25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tauhid25&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-    </td>
-  </tr>
-</table>
-</div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid25&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="300" height="200"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tauhid25&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" height="200"/>
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?userna
 
 
 
