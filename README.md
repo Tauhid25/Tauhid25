@@ -1,31 +1,63 @@
-! [coverphoto](https://i.ibb.co/xqWHkP1n/github-bannar.png)
-# Hello World 👋
-## Tauhidur Rahman
-#### I am Web Developer.
+<!-- Cover Photo -->
+<img src="https://i.ibb.co/xqWHkP1n/github-bannar.png" alt="Cover" width="100%" />
 
-I am working as Accountant,but my passion is web development.In the future i want to work as a web developer.I dream of leaving a lasting impact on the digital world by creating innovative web solutions that revolutionize industries and improve people's lives.
+<h1 align="center">Hi, I'm Tauhidur Rahman 👋</h1>
+<h3 align="center">A Passionate MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
 
-Skills: HTML / CSS / JS/ MERN
+---
 
-- 🔭 I’m currently working on Ratul Group 
-- 🌱 I’m currently learning MERN 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web development 
+## 🚀 About Me
+
+- 👨‍💻 I'm a **Full Stack JavaScript Developer** specializing in the **MERN stack**  
+- 🌱 Currently enhancing skills in **Next.js**, **TypeScript**, and **DevOps**  
+- 💡 I love building dynamic, scalable web apps and solving real-world problems  
+- 📫 Reach me at: **your.email@example.com**  
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+`React` · `JavaScript` · `HTML` · `CSS` · `Tailwind` · `Bootstrap`
+
+**Backend:**  
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose`
+
+**Tools:**  
+`Firebase` · `Git` · `Vercel` · `Netlify` · `Postman` · `VS Code`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📂 Projects
+
+Here are a few highlighted projects:
+
+- 🔗 [Event Explorer](https://event-explorer.com) — Event discovery web app using React + Firebase  
+- 🌱 [Better Work](https://better-work.com) — Social development platform for community events  
+- 🛒 [MERN E-Commerce](https://ecom-demo.com) — Full-featured eCommerce web app
+
+> 👉 Check out more in my [repositories](https://github.com/your-username?tab=repositories)
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+
+---
+
+_Thank you for visiting my profile!_
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tauhid25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tauhidur Rahman)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tauhid25)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid25)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tauhid25&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tauhid25/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/Tauhid25)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Tauhid25)  
 
