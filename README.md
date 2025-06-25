@@ -1,13 +1,11 @@
 <!-- Cover Photo -->
 <img src="https://i.ibb.co/xqWHkP1n/github-bannar.png" alt="Cover" width="100%" />
 
----
 
 ## 🚀 About Me
 
 <p>I’m Tauhidur Rahman, a passionate MERN Stack Developer from Bangladesh. I love building full-stack web applications that solve real-world problems. I enjoy learning new technologies, collaborating on open-source projects, and continuously improving my skills to create clean, scalable, and efficient code that makes a meaningful impact.</p>
 
----
 
 ## 🚀 Currently, 
 - I am exploring Next.js to enhance my full-stack development skills.
@@ -22,7 +20,6 @@
 | **Tools**    | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
 
----
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -43,10 +40,6 @@
 
 
 
-
----
-
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauhidbd789/)
@@ -57,22 +50,10 @@
 
 
 
----
-
-## 📂 Projects
-
-Here are a few highlighted projects:
-
-- 🔗 [Event Explorer](https://event-explorer.com) — Event discovery web app using React + Firebase  
-- 🌱 [Better Work](https://better-work.com) — Social development platform for community events  
-- 🛒 [MERN E-Commerce](https://ecom-demo.com) — Full-featured eCommerce web app
-
-> 👉 Check out more in my [repositories](https://github.com/your-username?tab=repositories)
-
----
 
 
-_Thank you for visiting my profile!_
+
+<p>Thank you for visiting my profile!</p>
 
 
 
