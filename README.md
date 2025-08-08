@@ -1,5 +1,5 @@
 <!-- Cover Photo -->
-<img src="https://i.ibb.co/xqWHkP1n/github-bannar.png" alt="Cover" width="100%" />
+![Cover](https://i.ibb.co/xqWHkP1n/github-bannar.png)
 
 
 ## 🚀 About Me
