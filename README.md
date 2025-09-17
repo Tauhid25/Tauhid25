@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<p>I’m Tauhidur Rahman, a passionate MERN Stack Developer from Bangladesh. I love building full-stack web applications that solve real-world problems. I enjoy learning new technologies, collaborating on open-source projects, and continuously improving my skills to create clean, scalable, and efficient code that makes a meaningful impact.</p>
+<p>I’m Tauhidur Rahman, a passionate Full Stack Web Developer from Bangladesh. I love building full-stack web applications that solve real-world problems. I enjoy learning new technologies, collaborating on open-source projects, and continuously improving my skills to create clean, scalable, and efficient code that makes a meaningful impact.</p>
 
 
 ## 🚀 Currently, 
